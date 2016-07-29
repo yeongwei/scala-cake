@@ -1,5 +1,9 @@
 package com.example
 
+/*
+ * Reference
+ * 1. http://www.cakesolutions.net/teamblogs/2011/12/19/cake-pattern-in-depth
+ */
 trait A {
   def msg: String
 }
